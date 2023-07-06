@@ -13,5 +13,5 @@ magicon:
 ## 🎮 Usage
 
 ```dart
-import 'package:ficonsax/ficonsax.dart';
+import 'package:magicon/magicon.dart';
 ```
