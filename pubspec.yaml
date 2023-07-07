@@ -2,7 +2,7 @@ name: magicon
 description: Icon for flutter.
 repository: https://github.com/dung170920/flutter_magicon
 homepage: https://github.com/dung170920/flutter_magicon
-version: 0.0.2
+version: 0.0.3
 
 environment:
   sdk: ">=2.19.6 <3.0.0"
@@ -16,11 +16,10 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
-  uses-material-design: true
   fonts:
-    - family: Magicon
+    - family: magicon
       fonts:
-        - asset: lib/fonts/Magicon.ttf
+        - asset: lib/fonts/magicon.ttf
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf

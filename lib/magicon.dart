@@ -5,8 +5,8 @@ import 'package:flutter/widgets.dart';
 class Magicon {
   Magicon._();
 
-  static const _kFontFam = 'Magicon';
-  static const String? _kFontPkg = null;
+  static const _kFontFam = 'magicon';
+  static const String? _kFontPkg = 'magicon';
 
   static const IconData activityCircle =
       IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
